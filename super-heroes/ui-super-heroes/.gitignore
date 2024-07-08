@@ -123,3 +123,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+.quinoa/
+target/
